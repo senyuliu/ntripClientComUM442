@@ -1,0 +1,4 @@
+build: exec make
+
+usage: ./ntripClientDemo server_address server_port mountpoint user password
+
